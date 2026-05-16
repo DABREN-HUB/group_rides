@@ -1,4 +1,3 @@
-𝓶𝓮𝓼𝓼𝓪𝔂 𝓶𝓮𝓼𝓯𝓲𝓷:
 -- PART 9: STORED FUNCTIONS AND PROCEDURES
 DELIMITER //
 
