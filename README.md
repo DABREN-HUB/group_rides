@@ -7,7 +7,7 @@ BABEY SISAY                 8099/17
 CHERNET ABRHAM              7826/17
 AYANTU ABERA                7731/17
 MESAY MESFIN                8164/17
-NEGALIGN TESHALA            7986/16
+NEGALIGN TESHALA            7986/17
 SAMUEL ABIRHAM              7849/17
 SOLOMON BIRHANU             4592/16
 
